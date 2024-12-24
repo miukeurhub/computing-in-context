@@ -3,8 +3,9 @@ root: index.md
 parts:
   - caption: Projects
     chapters:
-      - file: Project_1
+      - file: PPN 12% 
       - file: Project_2
+      - file: Project_1
       - file: Project_3
       - url: https://miukeurhub.github.io/gmp-wasting-nepal/
-        title: "R Project"
+        title: "Projects in R"

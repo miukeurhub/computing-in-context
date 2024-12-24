@@ -1,3 +1,7 @@
-Welcome to Mugi’s Final Project for the Computing in Context Class!  
+Hi folks!
 
-This site showcases the work I completed during this course, including my data analysis project. If you have any questions or suggestions on how to improve this site, feel free to reach out to me at [msm2287@columbia.edu](mailto:msm2287@columbia.edu).
+Welcome to my portfolio website! Here, you’ll find a collection of the data projects I’ve worked on, including a recent data analysis project that I’m particularly interested in. This site is a place where I share my work, the skills I’ve developed, and the insights I’ve gained while tackling data challenges.
+
+Feel free to browse through the projects to see the approaches I’ve taken and the tools I’ve used. If you have any questions, suggestions, or just want to connect, I’d love to hear from you! You can reach out to me [here](mailto:silihmugi@gmail.com).
+
+Thanks for stopping by, and I hope you find something here that sparks your interest!
