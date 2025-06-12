@@ -3,7 +3,8 @@ root: index.md
 parts:
   - caption: Projects
     chapters:
-      - file: PPN 12% 
+      - file: PPN 12%
+      - file: compensation_model
       - file: Project_2
       - file: Project_1
       - file: Project_3
