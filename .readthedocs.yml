@@ -14,4 +14,4 @@ conda:
   environment: environment.yml
 
 sphinx:
-  configuration: _config/_build/_sphinx/config.py
+  configuration: conf.py
